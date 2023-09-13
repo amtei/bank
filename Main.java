@@ -22,7 +22,7 @@ public class Main {
                 String str2 = "да";
 
                 if (str.equals(name2)) {
-                    System.out.println("Номер счета:____");
+                    System.out.println("Номер счета:__23");
 
                 }
 
